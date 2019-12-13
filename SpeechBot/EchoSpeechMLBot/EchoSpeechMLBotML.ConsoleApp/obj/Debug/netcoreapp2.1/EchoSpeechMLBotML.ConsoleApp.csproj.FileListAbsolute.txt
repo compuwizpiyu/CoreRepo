@@ -1,0 +1,15 @@
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.deps.json
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.runtimeconfig.json
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.dll
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.pdb
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.Model.dll
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\bin\Debug\netcoreapp2.1\EchoSpeechMLBotML.Model.pdb
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.AssemblyInfo.cs
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.csproj.CopyComplete
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.dll
+C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.ConsoleApp\obj\Debug\netcoreapp2.1\EchoSpeechMLBotML.ConsoleApp.pdb
