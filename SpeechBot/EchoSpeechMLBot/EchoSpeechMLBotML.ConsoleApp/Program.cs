@@ -11,7 +11,7 @@ namespace EchoSpeechMLBotML.ConsoleApp
     class Program
     {
         //Dataset to use for predictions 
-        private const string DATA_FILEPATH = @"C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBot\wikiDetoxAnnotated160kRows.tsv";
+        private const string DATA_FILEPATH = @"C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\wikiDetoxAnnotated20kRows.tsv";
 
         static void Main(string[] args)
         {

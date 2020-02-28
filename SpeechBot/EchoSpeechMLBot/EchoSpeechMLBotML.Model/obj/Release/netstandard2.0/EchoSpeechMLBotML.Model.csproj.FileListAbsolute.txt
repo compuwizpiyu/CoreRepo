@@ -8,3 +8,13 @@ C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release
 C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.AssemblyInfo.cs
 C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.dll
 C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.pdb
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\bin\Release\netstandard2.0\EchoSpeechMLBotML.Model.deps.json
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\bin\Release\netstandard2.0\EchoSpeechMLBotML.Model.dll
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\bin\Release\netstandard2.0\EchoSpeechMLBotML.Model.pdb
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.csprojAssemblyReference.cache
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.csproj.CoreCompileInputs.cache
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.AssemblyInfoInputs.cache
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.AssemblyInfo.cs
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.dll
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBotML.Model\obj\Release\netstandard2.0\EchoSpeechMLBotML.Model.pdb

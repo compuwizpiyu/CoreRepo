@@ -12,7 +12,7 @@ namespace EchoSpeechMLBotML.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static string TRAIN_DATA_FILEPATH = @"C:\Users\pshah6\source\repos\EchoSpeechMLBot\EchoSpeechMLBot\wikiDetoxAnnotated160kRows.tsv";
+        private static string TRAIN_DATA_FILEPATH = @"C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\wikiDetoxAnnotated20kRows.tsv";
         private static string MODEL_FILEPATH = @"../../../../EchoSpeechMLBotML.Model/MLModel.zip";
 
         // Create MLContext to be shared across the model creation workflow objects 

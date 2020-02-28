@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Bot.Builder;
 using Microsoft.Bot.Schema;
-//using EchoSpeechMLBotML.Model;
+using EchoSpeechMLBotML.Model;
 using Microsoft.ML;
 using System;
 namespace EchoSpeechMLBot.Bots
@@ -17,23 +17,23 @@ namespace EchoSpeechMLBot.Bots
     {
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
-            //MLContext mlContext = new MLContext();
+            MLContext mlContext = new MLContext();
 
 
 
-            //ITransformer mlModel = mlContext.Model.Load(ConsumeModel.ModelPath, out _);
+            ITransformer mlModel = mlContext.Model.Load(ConsumeModel.ModelPath, out _);
 
-            //var predEngine = mlContext.Model.CreatePredictionEngine<ModelInput, ModelOutput>(mlModel);
+            var predEngine = mlContext.Model.CreatePredictionEngine<ModelInput, ModelOutput>(mlModel);
 
-            //ModelInput sampleData = new ModelInput { Comment = turnContext.Activity.Text };
+            ModelInput sampleData = new ModelInput { Comment = turnContext.Activity.Text };
 
-            //ModelOutput predictionResult = predEngine.Predict(sampleData);
+            ModelOutput predictionResult = predEngine.Predict(sampleData);
 
-            //var predictionBool = predictionResult.Prediction;
+            var predictionBool = predictionResult.Prediction;
 
-            //await turnContext.SendActivityAsync(CreateActivityWithTextAndSpeak($"The sentence {turnContext.Activity.Text} is {(Convert.ToBoolean(predictionBool) ? "Toxic" : "Non Toxic")} sentiment"), cancellationToken);
+            await turnContext.SendActivityAsync(CreateActivityWithTextAndSpeak($"The sentence {turnContext.Activity.Text} is {(Convert.ToBoolean(predictionBool) ? "Toxic" : "Non Toxic")} sentiment"), cancellationToken);
 
-            await turnContext.SendActivityAsync(CreateActivityWithTextAndSpeak($"Echo: {turnContext.Activity.Text}"), cancellationToken);
+            //await turnContext.SendActivityAsync(CreateActivityWithTextAndSpeak($"Echo: {turnContext.Activity.Text}"), cancellationToken);
         }
 
         protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)

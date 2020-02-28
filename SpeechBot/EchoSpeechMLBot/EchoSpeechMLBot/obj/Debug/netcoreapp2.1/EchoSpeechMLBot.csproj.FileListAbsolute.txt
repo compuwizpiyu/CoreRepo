@@ -47,3 +47,4 @@ C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\
 C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\obj\Debug\netcoreapp2.1\EchoSpeechMLBot.csproj.CopyComplete
 C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\obj\Debug\netcoreapp2.1\EchoSpeechMLBot.dll
 C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\obj\Debug\netcoreapp2.1\EchoSpeechMLBot.pdb
+C:\Users\pshah6\source\repos\CoreRepo\SpeechBot\EchoSpeechMLBot\EchoSpeechMLBot\obj\Debug\netcoreapp2.1\EchoSpeechMLBot.csprojAssemblyReference.cache

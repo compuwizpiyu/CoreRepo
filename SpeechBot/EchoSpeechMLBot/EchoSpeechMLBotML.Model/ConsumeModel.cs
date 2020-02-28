@@ -13,7 +13,8 @@ namespace EchoSpeechMLBotML.Model
     {
         // For more info on consuming ML.NET models, visit https://aka.ms/model-builder-consume
         // Method for consuming model in your app
-        public static string ModelPath { get => AppDomain.CurrentDomain.BaseDirectory + "MLModel.zip"; }
+
+            public static string ModelPath { get=> AppDomain.CurrentDomain.BaseDirectory + "MLModel.zip"; }
         public static ModelOutput Predict(ModelInput input)
         {
 
