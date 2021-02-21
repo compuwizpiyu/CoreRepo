@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBot\\EchoSpeechMLBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBotML.Model\\EchoSpeechMLBotML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBotML.Model\\EchoSpeechMLBotML.Model.csproj",
+        "projectName": "EchoSpeechMLBotML.Model",
+        "projectPath": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBotML.Model\\EchoSpeechMLBotML.Model.csproj",
+        "packagesPath": "C:\\Users\\pshah6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBotML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pshah6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBot\\EchoSpeechMLBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBot\\EchoSpeechMLBot.csproj",
+        "projectName": "EchoSpeechMLBot",
+        "projectPath": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBot\\EchoSpeechMLBot.csproj",
+        "packagesPath": "C:\\Users\\pshah6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pshah6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBotML.Model\\EchoSpeechMLBotML.Model.csproj": {
+                "projectPath": "C:\\Users\\pshah6\\source\\repos\\CoreRepo\\SpeechBot\\EchoSpeechMLBot\\EchoSpeechMLBotML.Model\\EchoSpeechMLBotML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

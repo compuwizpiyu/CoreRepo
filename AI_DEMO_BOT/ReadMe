@@ -1,0 +1,13 @@
+https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0
+Please go to the above link to see software requirements for getting started with Bot framework 4.0 and to create a basic Echo Bot.
+(with Visual studio and Bot Framework SDK)
+
+To add sentiment analysis to the Bot, please have a look at
+
+https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro
+
+Create your EchoBot, then right click on the EchoBot and Add "Machine Learning".
+Follow the steps in the ML.NET Tutorial above to get add sentiment analysis to the EchoBot. (I have named my EchoBot as AI_DEMO_BOT)
+
+In the AI_DEMO_BOT project, under Bot/EchoBot.cs file, please check the path for MLModel.zip file. If you directly clone the contents of this repo, nno need of making any changes. But if you are creating an EchoBot and adding ML to it from scratch, please note the location of the generated MLModel.zip file.
+

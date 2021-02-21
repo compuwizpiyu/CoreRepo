@@ -1,0 +1,15 @@
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.deps.json
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.runtimeconfig.json
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.dll
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.pdb
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.Model.dll
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\bin\Debug\netcoreapp2.1\AI_DEMO_BOTML.Model.pdb
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.AssemblyInfo.cs
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.csproj.CopyComplete
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.dll
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.ConsoleApp\obj\Debug\netcoreapp2.1\AI_DEMO_BOTML.ConsoleApp.pdb

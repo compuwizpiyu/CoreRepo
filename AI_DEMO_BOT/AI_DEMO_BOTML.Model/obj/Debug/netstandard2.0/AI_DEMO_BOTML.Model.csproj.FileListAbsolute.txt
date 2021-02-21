@@ -1,0 +1,10 @@
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\bin\Debug\netstandard2.0\AI_DEMO_BOTML.Model.deps.json
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\bin\Debug\netstandard2.0\AI_DEMO_BOTML.Model.dll
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\bin\Debug\netstandard2.0\AI_DEMO_BOTML.Model.pdb
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\obj\Debug\netstandard2.0\AI_DEMO_BOTML.Model.csprojAssemblyReference.cache
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\obj\Debug\netstandard2.0\AI_DEMO_BOTML.Model.csproj.CoreCompileInputs.cache
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\obj\Debug\netstandard2.0\AI_DEMO_BOTML.Model.AssemblyInfoInputs.cache
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\obj\Debug\netstandard2.0\AI_DEMO_BOTML.Model.AssemblyInfo.cs
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\obj\Debug\netstandard2.0\AI_DEMO_BOTML.Model.dll
+C:\Users\pshah6\source\repos\AI_DEMO_BOT\AI_DEMO_BOTML.Model\obj\Debug\netstandard2.0\AI_DEMO_BOTML.Model.pdb
